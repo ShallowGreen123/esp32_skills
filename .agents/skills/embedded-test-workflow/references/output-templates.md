@@ -136,6 +136,14 @@
 # ESP32 演示工程标准化方案
 
 ## 1. 推荐目录结构
+### hardware 标准结构
+```text
+hardware/
+|- schematic/   # 原理图
+|- datasheet/   # 芯片/模块数据手册
+|- pinmap/      # 引脚映射表
+`- notes/       # 硬件分析记录
+```
 ## 2. 标准工作流
 ## 3. 硬件资料阅读方法
 ## 4. Example 拆分规范

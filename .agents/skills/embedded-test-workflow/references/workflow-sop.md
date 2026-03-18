@@ -10,6 +10,7 @@
 
 ## 2. 阅读硬件资料
 - 输入：原理图、数据手册、引脚表
+- 存放要求：统一整理到 `hardware/schematic`、`hardware/datasheet`、`hardware/pinmap`、`hardware/notes`
 - 动作：按 [review-checklist.md](review-checklist.md) 提取关键信息
 - 输出：引脚映射、初始化顺序、约束列表
 - 结束条件：能说明代码应该如何初始化模块
